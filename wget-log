@@ -1,0 +1,25 @@
+--2025-06-28 03:30:13--  https://github.com/taiwanese-fonts/TaipeiSansTCBeta/raw/master/TaipeiSansTCBeta-Regular.ttf
+Resolving github.com (github.com)... 20.27.177.113
+Connecting to github.com (github.com)|20.27.177.113|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-06-28 03:30:13 ERROR 404: Not Found.
+
+--2025-06-28 03:30:13--  https://drive.google.com/uc?id=1eGAsTN1HBpJAkeVM57_C7ccp7hbgSz3_
+Resolving drive.google.com (drive.google.com)... 142.250.198.78, 2404:6800:4012:5::200e
+Connecting to drive.google.com (drive.google.com)|142.250.198.78|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://drive.usercontent.google.com/download?id=1eGAsTN1HBpJAkeVM57_C7ccp7hbgSz3_ [following]
+--2025-06-28 03:30:14--  https://drive.usercontent.google.com/download?id=1eGAsTN1HBpJAkeVM57_C7ccp7hbgSz3_
+Resolving drive.usercontent.google.com (drive.usercontent.google.com)... 142.250.196.193, 2404:6800:4012:6::2001
+Connecting to drive.usercontent.google.com (drive.usercontent.google.com)|142.250.196.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20659344 (20M) [application/octet-stream]
+Saving to: ‘TaipeiSansTCBeta-Regular.ttf’
+
+TaipeiSansTCBeta-Regular   0%[                                 ]       0  --.-KB/s               TaipeiSansTCBeta-Regular  28%[========>                        ]   5.60M  27.9MB/s               TaipeiSansTCBeta-Regular  62%[===================>             ]  12.23M  30.5MB/s               TaipeiSansTCBeta-Regular  94%[==============================>  ]  18.68M  31.1MB/s               TaipeiSansTCBeta-Regular 100%[================================>]  19.70M  31.2MB/s    in 0.6s    
+
+2025-06-28 03:30:20 (31.2 MB/s) - ‘TaipeiSansTCBeta-Regular.ttf’ saved [20659344/20659344]
+
+FINISHED --2025-06-28 03:30:20--
+Total wall clock time: 7.2s
+Downloaded: 1 files, 20M in 0.6s (31.2 MB/s)
